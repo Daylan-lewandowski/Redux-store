@@ -14,8 +14,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^5.0.1",
-    "if-env": "^1.0.4"
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "graphql": "^15.5.0",
+    "graphql-tag": "^2.12.4",
+    "if-env": "^1.0.4",
+    "react": "^17.0.2",
+    "react-redux": "^7.2.4"
   },
   "devDependencies": {
     "concurrently": "^5.1.0"
